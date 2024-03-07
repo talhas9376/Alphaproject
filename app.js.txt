@@ -1,2 +1,3 @@
 1st line for master
 2nd line for feature
+3rd line is for master
